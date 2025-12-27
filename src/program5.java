@@ -3,7 +3,7 @@
 public class program5 {
 
     public static void main(String[] args) {
-        int n=187839;
+        int n=187239;
 
         String str=String.valueOf(n);
         char [] c=str.toCharArray();
